@@ -3,7 +3,7 @@ import { Breadcrumb, Layout, theme } from 'antd';
 
 const { Header, Content, Footer, Sider } = Layout;
 
-import MainLayout from '../../commons/layout/mainLayout';
+import MainLayout from '../../../commons/layout/mainLayout';
 import styles from '../../commons/styles/content.module.scss'
 
 export default function IronFarm() {
