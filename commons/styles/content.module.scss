@@ -2,6 +2,9 @@
   .heading {
     font-size: 50px;
   }
+  .heading_2 {
+    font-size: 40px;
+  }
   .paragraph {
     font-size: 30px;
   }
@@ -10,6 +13,9 @@
 @media screen and (max-width: 600px) {
   .heading {
     font-size: 35px;
+  }
+  .heading_2 {
+    font-size: 25px;
   }
   .paragraph {
     font-size: 20px;

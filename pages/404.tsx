@@ -11,7 +11,7 @@ export default function Home() {
     <MainLayout breadcrumbs={['404 Not Found']} theme='dark'>
       <h2 className={styles.heading}>404</h2>
       <p className={styles.paragraph}>
-        The content you requested doesn not exist.
+        The content you requested does not exist.
       </p>
     </MainLayout>
   )

@@ -1,0 +1,79 @@
+[
+  {
+    "label": "Minecraft",
+    "key": "/Minecraft",
+    "icon": null,
+    "children": [
+      {
+        "label": "Machines",
+        "key": "/Minecraft/Machines",
+        "icon": null,
+        "children": [
+          {
+            "label": "Furnace",
+            "key": "/Minecraft/Machines/Furnace",
+          "icon": null
+          },
+          {
+            "label": "Observer",
+            "key": "/Minecraft/Machines/Observer",
+          "icon": null
+          }
+        ]
+      },
+      {
+        "label": "Farms",
+        "key": "/Minecraft/Farms",
+        "icon": null,
+        "children": [
+          {
+            "label": "Iron Farm",
+            "key": "/Minecraft/Farms/Iron",
+            "icon": null
+          },
+          {
+            "label": "Kelp Farm",
+            "key": "/Minecraft/Farms/Kelp",
+            "icon": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "RFTool",
+    "key": "/RFTool",
+    "icon": null,
+    "children": [
+      {
+        "label": "RFTool Base",
+        "key": "/RFTools/Base",
+        "icon": null,
+        "children": [
+          {
+            "label": "Casing",
+            "key": "/RFTools/Base/Casing",
+            "icon": null
+          }
+        ]
+      },
+      {
+        "label": "RFTool Builder",
+        "key": "/RFTool/Builder",
+        "icon": null,
+        "children": [
+          {
+            "label": "Builder",
+            "key": "/RFTool/Builder/Builder",
+            "icon": null
+          },
+          {
+            "label": "Shape Card",
+            "key": "/Minecraft/Builder/ShapeCard",
+            "icon": null
+          }
+        ]
+      }
+    ]
+  }
+]
